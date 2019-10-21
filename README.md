@@ -9,4 +9,4 @@ From the Friend Finder home page, click the Take Survey button to begin the surv
 
 ### [Try the App!](https://Edestiny7.github.io/FriendFinder/)
 
-Technology: HTML5 | CSS3 | JavaScript | Google Fonts | Express | Node | API
+Technology: HTML5 | CSS3 | Bootstrap | JavaScript | Jquery | Google Fonts | Express | Node | API
